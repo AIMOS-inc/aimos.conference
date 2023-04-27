@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', async () => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          currency: 'usd',
+          currency: 'aud',
           paymentMethodType: 'card',
         }),
       }
