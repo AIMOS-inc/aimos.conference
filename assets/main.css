@@ -3,7 +3,7 @@
 /* These are the colors and fonts used throughout the webpage.
  * I've listed them here so that a user may easily
  * do a search-and-replace for these to change the site theme.
- *   'Lato Light',sans-serif; Font for the title text
+ *   'Modeka',sans-serif; Font for the title text
  *   'Lato Heavy',serif; Font for the body text 
  *   #fafafa; Background color of the site
  *   #505050; Foreground (text) color of the site
@@ -30,9 +30,9 @@ body{
     background-attachment: fixed;
     color: #505050; 
     text-align: left;
-    font-family:'Lato Light',sans-serif;
+    font-family:'Modeka',sans-serif;
     font-size: 1em;
-    line-height: 1em;
+    line-height: 1.5em;
     margin: 60px auto;
     width: 1000px;
 }
@@ -80,7 +80,7 @@ th,td{
 /* Website Banner */
 .banner {position: relative; font-family:'Lato Slab',serif;}
 .top-left {font-size:5.33em; color: #505050; background: #fafafa; text-align: center; width: 1000px; height: 67px; position: absolute; padding: 32px 0 0 0; top: 0px;}
-.bottom-right {font-size:2.33em; color: #fafafa; line-height: 1em; width: auto; height: 100px; padding: 0px 22px 22px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
+.bottom-right {font-size:2.33em; color: #fafafa; line-height: 1.5em; width: auto; height: 100px; padding: 0px 22px 22px 0px; text-align: right; position: absolute; bottom: 0px; right: 0px; text-shadow: 0px 0px 6px #000000;}
 
 /* Conference Title Logo */
 .title1{color: #b2132e; text-shadow: 1px 1px 3px #c0c0c0;} 
@@ -118,9 +118,9 @@ img.center{display:block; width:67%; margin:1em auto 2em auto;}
 /* My hacky way of making the site mobile-friendly */
 @media only screen and (max-width: 1100px) {
     h2{font-size:3.00em;}
-    p{font-size:1.5em; line-height:1em;}
-    th,td,tr{font-size:1.5em; line-height:1em;}
-    td.date{font-size:1em; padding-top:0.4em;}
+    p{font-size:1.5em; line-height:1.5em;}
+    th,td,tr{font-size:1.5em; line-height:1.5em;}
+    td.date{font-size:1em; padding-top:0.5em;}
     td.navigation{font-size:1.5em; padding:0px 16px 0px 16px;}
     table.footer{font-size:0.33em;}
 }
