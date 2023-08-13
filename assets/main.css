@@ -5,12 +5,12 @@
  * do a search-and-replace for these to change the site theme.
  *   'Garamond',sans-serif; Font for the title text
  *   'Lato',serif; Font for the body text 
- *   #fafafa; Background color of the site
+ *   #fafafa; Background color of the site (light grey)
  *   #505050; Foreground (text) color of the site
  *   #52739e; Navy, "Template" in the logo, current page in navigation, special titles in the Program
- *   #132db2; Blue
- *   #813c54; Heading color, titles in the Program
- *   #b8860b; Dark Goldenrod, color for links
+ *   #192570; AIMOS Blue
+ *   #4b8fcc; Heading color, titles in the Program, changed to AIMOS light blue
+ *   #ffcd32; Dark Goldenrod, color for links, changed to AIMOS yellow
  */
 
 @import url('https://fonts.googleapis.com/css?family=Lato%7CLato+Slab');
