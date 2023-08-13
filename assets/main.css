@@ -3,8 +3,8 @@
 /* These are the colors and fonts used throughout the webpage.
  * I've listed them here so that a user may easily
  * do a search-and-replace for these to change the site theme.
- *   'Lato',sans-serif; Font for the title text
- *   'Lato-Slab',serif; Font for the body text 
+ *   'Lato Light',sans-serif; Font for the title text
+ *   'Lato Heavy',serif; Font for the body text 
  *   #fafafa; Background color of the site
  *   #505050; Foreground (text) color of the site
  *   #52739e; Navy, "Template" in the logo, current page in navigation, special titles in the Program
@@ -30,7 +30,7 @@ body{
     background-attachment: fixed;
     color: #505050; 
     text-align: left;
-    font-family:'Lato',sans-serif;
+    font-family:'Lato Light',sans-serif;
     font-size: 1em;
     line-height: 1em;
     margin: 60px auto;
