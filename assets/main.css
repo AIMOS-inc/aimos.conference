@@ -10,7 +10,7 @@
  *   #52739e; Navy, "Template" in the logo, current page in navigation, special titles in the Program
  *   #192570; AIMOS Blue
  *   #4b8fcc; Heading color, titles in the Program, changed to AIMOS light blue
- *   #ffcd32; Dark Goldenrod, color for links, changed to AIMOS yellow
+ *   #ffcc32; Dark Goldenrod, color for links, changed to AIMOS yellow
  */
 
 @import url('https://fonts.googleapis.com/css?family=Lato%7CLato+Slab');
@@ -37,7 +37,7 @@ body{
     width: 1000px;
 }
 
-a{color: #ffcd32; text-decoration:none;}
+a{color: #ffcc32; text-decoration:none;}
 a.current{color: #52739e;}
 a.current:hover{color: #e82945;}
 a:hover{color: #132db2;}
@@ -48,7 +48,7 @@ h2{font-size:2.00em;}
 h3{font-size:1.67em;}
 h4{font-size:1.33em;}
 p{list-style:none; margin:0px auto 12px auto; padding:0px; width:900px; text-align:left;}
-li a, p a {text-decoration:underline; text-decoration-color:#ffcd32;}
+li a, p a {text-decoration:underline; text-decoration-color:#ffcc32;}
 ul{margin:24px auto 24px auto; padding:0px; width:800px; text-align:left;}
 ul li{margin:0px auto 0px auto; padding:0px; text-align:left;}
 i,em{font-style:italic;}
