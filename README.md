@@ -1,4 +1,4 @@
-# Web site for AIMOS 2023 conference
+# Web site for the AIMOS 2023 conference in Brisbane
 
 Created using the [template](https://mikepierce.github.io/conference-website-template/) by Mike Pierce.
 
